@@ -9,26 +9,26 @@
 <br>
 
 ### Test Case
-- Masuk halaman utama 
-![home](img/Screenshot%202022-11-15%20192035.png) 
-Hasil
-![hasil login](img/Screenshot%20(23).png)
+- Masuk halaman utama <br>
+![home](img/Screenshot%202022-11-15%20192035.png) <br>
+Hasil <br>
+![hasil login](img/Screenshot%20(23).png) <br>
 
-- Login
-![login](img/Screenshot%202022-11-15%20185540.png)
-Hasil Klik Login
-![hasil login](img/Screenshot%20(14).png)
-Hasil klik login dengan google
-![login google](img/WhatsApp%20Image%202022-11-15%20at%2017.32.43.jpeg)
-Hasil setelah memasukkan email
-![masukan email](img/WhatsApp%20Image%202022-11-15%20at%2017.32.55.jpeg)
-Login ditolak oleh Cypress
-![login ditolak](img/WhatsApp%20Image%202022-11-15%20at%2017.33.27.jpeg)
+- Login <br>
+![login](img/Screenshot%202022-11-15%20185540.png) <br>
+Hasil Klik Login <br>
+![hasil login](img/Screenshot%20(14).png) <br>
+Hasil klik login dengan google <br>
+![login google](img/WhatsApp%20Image%202022-11-15%20at%2017.32.43.jpeg) <br>
+Hasil setelah memasukkan email <br>
+![masukan email](img/WhatsApp%20Image%202022-11-15%20at%2017.32.55.jpeg) <br>
+Login ditolak oleh Cypress <br>
+![login ditolak](img/WhatsApp%20Image%202022-11-15%20at%2017.33.27.jpeg) <br>
 
-- Search
-![search](img/Screenshot%202022-11-15%20185439.png)
-Hasil mengetikkan "sepatu"
-![ketik pencarian](img/Screenshot%20(24).png)
-Hasil klik tombol search diharuskan login terlebih dahulu
-![hasil pencarian](img/Screenshot%20(14).png)
+- Search <br>
+![search](img/Screenshot%202022-11-15%20185439.png) <br>
+Hasil mengetikkan "sepatu" <br>
+![ketik pencarian](img/Screenshot%20(24).png) <br>
+Hasil klik tombol search diharuskan login terlebih dahulu <br>
+![hasil pencarian](img/Screenshot%20(14).png) <br>
 
