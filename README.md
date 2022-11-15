@@ -30,5 +30,12 @@ Login ditolak oleh Cypress <br>
 Hasil mengetikkan "sepatu" <br>
 ![ketik pencarian](img/Screenshot%20(24).png) <br>
 Hasil klik tombol search diharuskan login terlebih dahulu <br>
-![hasil pencarian](img/Screenshot%20(14).png) <br>
+![hasil pencarian](img/Screenshot%20(14).png) <br><br>
+
+## Test Case Cetak Form Kelengkapan Siakad
+Hasil tampilan ketika berhasil login <br>
+![login](img/loginSuccess.png) <br><br>
+Hasil tampilan setelah mengklik cetak form<br>
+![cetakForm](img/cetakForm.png) <br>
+
 
