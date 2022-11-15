@@ -32,7 +32,12 @@ Hasil mengetikkan "sepatu" <br>
 Hasil klik tombol search diharuskan login terlebih dahulu <br>
 ![hasil pencarian](img/Screenshot%20(14).png) <br><br>
 
+## Test Case menginputkan password yang salah ketika login Siakad
+hasil ketika password atau nim yang dimasukkan tidak sesuai
+![login](img/falseLogin.png) <br><br>
 ## Test Case Cetak Form Kelengkapan Siakad
+Melakukan login<br>
+![login](img/prosesLogin.png) <br><br>
 Hasil tampilan ketika berhasil login <br>
 ![login](img/loginSuccess.png) <br><br>
 Hasil tampilan setelah mengklik cetak form<br>
