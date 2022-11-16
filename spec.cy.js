@@ -5,5 +5,11 @@ describe('empty spec', () => {
     cy.get('button[class="btn btn-solid-primary btn--s btn--inline shopee-searchbar__search-button"]').click()
     cy.contains('Log In').click()
     cy.contains('Google').click()
+
+    // Daftar
+    cy.contains('Daftar').click()
+    cy.get('input[class="pDzPRp"]').type('082135453366')
+    cy.contains('Berikutnya').click()
+    cy.contains('Kirim').click()  
   })
 })

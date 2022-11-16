@@ -32,6 +32,17 @@ Hasil mengetikkan "sepatu" <br>
 Hasil klik tombol search diharuskan login terlebih dahulu <br>
 ![hasil pencarian](img/Screenshot%20(14).png) <br><br>
 
+- Daftar <br>
+![Daftar](img/CodeDaftar.png) <br><br>
+Hasil ketika klik daftar
+![Daftar](img/Daftar.png) <br><br>
+Melakukan input nomor handphone
+![Input](img/InputNo.png) <br><br>
+Hasil ketika klik berikutnya
+![Berikutnya](img/Berikutnya.png) <br><br>
+Hasil ketika klik kirim
+![Kirim](img/Kirim.png) <br><br>
+
 ## Test Case menginputkan password yang salah ketika login Siakad
 hasil ketika password atau nim yang dimasukkan tidak sesuai
 ![login](img/falseLogin.png) <br><br>
